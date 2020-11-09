@@ -9,7 +9,7 @@ import './App.css';
 function App() {
     
 
-   
+   /**Ficou uma gambiarra, por enquanto... */
     
    
     function off() {
