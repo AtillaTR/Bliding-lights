@@ -1,2 +1,2 @@
-# Christmas-Lights
-Animacao de luzes de natal.
+# Blinding Lights
+Animacao de luzes.
